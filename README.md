@@ -1,4 +1,4 @@
-## "퍼스널 컬러 스마트 미러"
+# "퍼스널 컬러 스마트 미러"
 > OpenCV, RaspberryPI3, Python2 이용하여 개발
 
 
