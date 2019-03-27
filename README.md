@@ -37,6 +37,8 @@ Raspberry PI 3, 2way Mirror(2 way mirror film+glass), Camera(Raspberry camera mo
 
 ## b. 시연
 
+<img width="249" alt="시연" src="https://user-images.githubusercontent.com/41661879/55073812-0fcda380-50d2-11e9-942f-11c2fea1d1c5.png">
+
 ## 2. 개발자 정보
 
 홍정수
