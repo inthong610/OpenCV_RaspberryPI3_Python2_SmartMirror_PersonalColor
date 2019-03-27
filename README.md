@@ -28,7 +28,7 @@ Raspberry PI 3, 2way Mirror(2 way mirror film+glass), Camera(Raspberry camera mo
 
 #### 매핑시킬 색상 천 제작 :
 
-<img width="369" alt="image" src="https://user-images.githubusercontent.com/41661879/55071159-2b817b80-50cb-11e9-8ad8-4a3e329a9cc0.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/41661879/55071159-2b817b80-50cb-11e9-8ad8-4a3e329a9cc0.png">
 
 <img width="682" alt="매핑천제작" src="https://user-images.githubusercontent.com/41661879/55075310-fa5a7880-50d5-11e9-8380-dc5d2fdf9ed8.png">
 
