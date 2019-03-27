@@ -63,8 +63,9 @@ make clean하고 빌드 포맷하고 다시 빌드 환경설정 및 빌드할 �
 
 ####	 - 다운로드 받은 파일(rpi-update)의 특성을 보기 위해 아래와 같이 명령
 
-```$ ls -l rpi*
--rwxr-xr-x 1 root root 10666 Feb 11 04:13 rpi-update```
+```$ ls -l rpi* 
+```
+``` -rwxr-xr-x 1 root root 10666 Feb 11 04:13 rpi-update ```
 
 위와 같이 나오면 실행 가능.
 
