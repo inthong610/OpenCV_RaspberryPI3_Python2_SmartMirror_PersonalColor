@@ -19,14 +19,14 @@
 
 #### 3)	준비
 
-#### SW
+#### SW :
 OpenCV, Python2, Raspbarian OS
 
-#### HW
+#### HW :
 Raspberry PI 3, 2way Mirror(2 way mirror film+glass), Camera(Raspberry camera module v2), LED Monitor
 
 
-#### 매핑시킬 색상 천 제작 
+#### 매핑시킬 색상 천 제작 :
 
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/41661879/55071159-2b817b80-50cb-11e9-8ad8-4a3e329a9cc0.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/41661879/55071164-2f150280-50cb-11e9-84f1-9bb362ef57f5.png">
