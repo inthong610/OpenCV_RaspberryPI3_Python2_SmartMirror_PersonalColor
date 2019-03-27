@@ -48,8 +48,8 @@ Raspberry PI 3, 2way Mirror(2 way mirror film+glass), Camera(Raspberry camera mo
 #### 2) OpenCV 빌드 문제 : 
 make clean하고 빌드 포맷하고 다시 빌드 환경설정 및 빌드할 것(빌드 한 번 소요시간 1시간 반 이상. 인내심 필요)
 
-#### 3) 라즈베리파 카멜 인식 문제
-라즈베리파이 펌웨어 업그레이드 + config.txt에 추 문장들 필요
+#### 3) 라즈베리파이 카메라 인식 문제 : 
+라즈베리파이 펌웨어 업그레이드 + config.txt에 추ㄱㅏ 문장들 필요
 
 #### 참고 : http://cafe.naver.com/studyonarduino/3100
 
@@ -57,7 +57,7 @@ make clean하고 빌드 포맷하고 다시 빌드 환경설정 및 빌드할 �
 ####	- 라즈베리파이 펌웨어 업데이트 하기 위한 다운로드 명령 입력
 ```$ sudo wget http://goo.gl/1BOfJ -O /usr/bin/rpi-update```
 
-####	- 다운로드 받은 파일을 /usr/bin 폴더에 저장. 따라서 해당 디렉토리로 이동.
+####	- 다운로드 받은 파일을 /usr/bin 폴더에 저장. 따라서 해당 디렉토리로 이동
 
 ```$ cd /usr/bin```
 
@@ -68,9 +68,9 @@ $ ls -l rpi*
 -rwxr-xr-x 1 root root 10666 Feb 11 04:13 rpi-update 
 ```
 
-위와 같이 나오면 실행 가능.
+위와 같이 나오면 실행 가능
 
-####	- 다음 명령어를 실행.
+####	- 다음 명령어를 실행
 ```$ sudo rpi-update```
 
 ####	- 재부팅
