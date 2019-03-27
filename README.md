@@ -35,6 +35,8 @@ Raspberry PI 3, 2way Mirror(2 way mirror film+glass), Camera(Raspberry camera mo
 
 ## b. 시연
 
+흰 티셔츠에 매칭 천이 덧대어지며 퍼스널 컬러 확인.
+
 <img width="249" alt="시연" src="https://user-images.githubusercontent.com/41661879/55073812-0fcda380-50d2-11e9-942f-11c2fea1d1c5.png">
 
 
