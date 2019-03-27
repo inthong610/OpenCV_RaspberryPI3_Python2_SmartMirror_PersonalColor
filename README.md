@@ -54,37 +54,37 @@ make clean하고 빌드 포맷하고 다시 빌드 환경설정 및 빌드할 �
 #### 참고 : http://cafe.naver.com/studyonarduino/3100
 
 
-####	라즈베리파이 펌웨어 업데이트 하기 위한 다운로드 명령 입력
+####	- 라즈베리파이 펌웨어 업데이트 하기 위한 다운로드 명령 입력
 ```$ sudo wget http://goo.gl/1BOfJ -O /usr/bin/rpi-update```
 
-####	다운로드 받은 파일을 /usr/bin 폴더에 저장. 따라서 해당 디렉토리로 이동.
+####	- 다운로드 받은 파일을 /usr/bin 폴더에 저장. 따라서 해당 디렉토리로 이동.
 
 ```$ cd /usr/bin```
 
-####	 다운로드 받은 파일(rpi-update)의 특성을 보기 위해 아래와 같이 명령
+####	 - 다운로드 받은 파일(rpi-update)의 특성을 보기 위해 아래와 같이 명령
 
-$ ls -l rpi*
--rwxr-xr-x 1 root root 10666 Feb 11 04:13 rpi-update
+```$ ls -l rpi*
+-rwxr-xr-x 1 root root 10666 Feb 11 04:13 rpi-update```
 
 위와 같이 나오면 실행 가능.
 
-####	다음 명령어를 실행.
-$ sudo rpi-update
+####	- 다음 명령어를 실행.
+```$ sudo rpi-update```
 
-####	재부팅
-$ sudo reboot
+####	- 재부팅
+```$ sudo reboot```
 
-####	 /boot/config.txt 파일을 열어서 
+####	 - /boot/config.txt 파일을 열어서 
 
-vi $ sudo vi /boot/config.txt
+```vi $ sudo vi /boot/config.txt```
 
-####	파일의 맨 마직막에 아래 세 줄을 추가
-gpu_mem=128
+####	- 파일의 맨 마직막에 아래 세 줄을 추가
+```gpu_mem=128
 start_file=start_x.elf
-fixup_file=fixup_x.dat
+fixup_file=fixup_x.dat```
 
-####	위 파일을 저장하고 나온 다음(:wq) 재부팅  
-$ sudo reboot
+####	- 위 파일을 저장하고 나온 다음(:wq) 재부팅  
+```$ sudo reboot```
 
 
 
