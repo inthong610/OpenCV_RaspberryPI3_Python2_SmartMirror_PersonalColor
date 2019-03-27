@@ -55,11 +55,11 @@ make clean하고 빌드 포맷하고 다시 빌드 환경설정 및 빌드할 �
 
 
 ####	라즈베리파이 펌웨어 업데이트 하기 위한 다운로드 명령 입력
-$ sudo wget http://goo.gl/1BOfJ -O /usr/bin/rpi-update
+```$ sudo wget http://goo.gl/1BOfJ -O /usr/bin/rpi-update```
 
 ####	다운로드 받은 파일을 /usr/bin 폴더에 저장. 따라서 해당 디렉토리로 이동.
 
-$ cd /usr/bin
+```$ cd /usr/bin```
 
 ####	 다운로드 받은 파일(rpi-update)의 특성을 보기 위해 아래와 같이 명령
 
